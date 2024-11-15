@@ -136,6 +136,7 @@ baseado nas três variáveis abaixo:
 # Regras
 
 Regra 1: biotipo
+
 identificar qual o tipo informado nas variáveis acima tipo corporal vai ser algum dos itens abaixo:
 
 - Ectomorfo Corpo mais magro, difícil ganhar peso e massa muscular.
@@ -143,12 +144,14 @@ identificar qual o tipo informado nas variáveis acima tipo corporal vai ser alg
 - Endomorfo Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
 
 Regra 2: periodização
+
 dependendo da quantidade miníma de dias informado na área de variáveis, criar uma das periodizações de treino abaixo
 - 1 dia Treino Full Body
 - 3 dias Treino ABC
 - 5 dias Treino ABCDE
 
 Regra 3: tipo
+
   - Funcional	Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
 	- Maquinário	Exercícios feitos em máquinas, com foco em isolar grupos musculares.
 	- Peso Livre	Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
@@ -156,6 +159,7 @@ Regra 3: tipo
 	- HIIT	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
 Regra 4: limitações
+
 Algumas pessoas possuem limitações como frouxidão ligamentar, cirurgias, etcs  que proíbam ou contraindiquem permanente ou temporáriamente algum execício. 
 De acordo com a variável limitações exclua exercícios potencialemnte prejudiciais para pessoas as limitações fornecidas
 
